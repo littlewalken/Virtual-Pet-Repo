@@ -1,9 +1,9 @@
 # Virtual Pet Simulator
 
-## Names of Pair Working on This Fork
-<Enter Name 1 Here>
-
-<Enter Name 2 Here>
+## Names of Group Working on This Fork
+- Vennec Moy
+- Bassam Kitana
+- Ethan Paider
 
 ## Run from Git Bash
 
