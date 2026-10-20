@@ -21,6 +21,6 @@ public class Cat extends Pet {
      Prints message containing cats name
      */
     public void purr() {
-    	System.out.println(getName() + " purrs happily!")
+    	System.out.println(getName() + " purrs happily!");
     }
 }
