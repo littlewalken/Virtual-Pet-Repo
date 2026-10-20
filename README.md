@@ -1,12 +1,12 @@
 # Virtual Pet Simulator
 
-<<<<<<< HEAD
+
 ## Names of Group Working on This Fork
 - Vennec Moy
 - Bassam Kitana
 - Ethan Paider
 
->>>>>>> cat-feature
+
 
 ## Run from Git Bash
 
